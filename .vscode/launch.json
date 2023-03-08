@@ -11,8 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\BMICalc.js",
-            "console": "externalTerminal"
+            "program": "${workspaceFolder}\\BMICalc.js"
         }
     ]
 }
